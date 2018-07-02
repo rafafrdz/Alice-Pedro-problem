@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inform.scala">
+    <CLASSES>
+      <root url="jar://C:/Bin/scala/scala-2.11.7/lib/inform.scala.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
