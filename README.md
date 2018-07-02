@@ -1,4 +1,4 @@
 ### Alice and Pedro problem
 
-![alice-pedro](C:\temp\github\pictures\alice-pedro.PNG)
+![](http://i67.tinypic.com/34reqm1.jpg)
 
